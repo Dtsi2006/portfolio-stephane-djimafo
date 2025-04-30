@@ -18,7 +18,7 @@ J'utilise Python, SQL, Power BI et Tableau pour transformer des jeux de données
 
 ## 🧠 Projets Data
 
-[###] 🔋[ Analyse énergétique – Production vs Consommation de la FRANCE(03/2025)](https://github.com/Dtsi2006/-Projet-Data-Analyst-nergie-Risque-de-Black-out-en-France-/blob/main/README_technique.ipynb)
+### 🔋[ Analyse énergétique – Production vs Consommation de la FRANCE(03/2025)](https://github.com/Dtsi2006/-Projet-Data-Analyst-nergie-Risque-de-Black-out-en-France-/blob/main/README_technique.ipynb)
 - Étude spatio-temporelle de la consommation électrique
 - Visualisation des zones critiques via Power BI
 - Traitement des données ODRE avec Python

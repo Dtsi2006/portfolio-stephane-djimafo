@@ -28,7 +28,7 @@ J'utilise Python, SQL, Power BI et Tableau pour transformer des jeux de données
 - Modélisation des facteurs de souscription
 - Dashboards dynamiques pour le pilotage marketing
 
-### 📈 Reporting automatisé – Base Chinook (04/2025)
+### 📈 [https://github.com/Dtsi2006/chinook-sales-automation/blob/main/01_README_Chinook_Project.md]Reporting automatisé – Base Chinook (04/2025)
 - Extraction SQL et vues dynamiques
 - Dashboard de vente trimestriel interactif (Power BI)
 

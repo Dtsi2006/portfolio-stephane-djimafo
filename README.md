@@ -23,7 +23,7 @@ J'utilise Python, SQL, Power BI et Tableau pour transformer des jeux de données
 - Visualisation des zones critiques via Power BI
 - Traitement des données ODRE avec Python
 
-### 💼 Analyse Marketing – Télémarketing bancaire (04/2025)
+### 💼 [Analyse Marketing – Télémarketing bancaire (04/2025)](https://github.com/Dtsi2006/bank-marketing-campaign-analysis/blob/main/01-README.md)
 - Segmentation client, ciblage optimisé
 - Modélisation des facteurs de souscription
 - Dashboards dynamiques pour le pilotage marketing
